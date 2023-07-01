@@ -1,0 +1,11 @@
+.segment {
+    /* => Segment Gulake align korer Orgianal Kaj aikane  */
+    height: 52%;
+    position: absolute;
+    clip-path: polygon(100% 0, 50% 100%, 0 0);
+    transform-origin: bottom;
+    /* ===>> <<=== */
+
+    text-align: center;
+    padding-top: 5rem;
+}
